@@ -37,6 +37,6 @@ function register() {
             }
         })
         .catch((err) => {
-            console.error("회워가입 중 에러 발생");
+            console.error("회원가입 중 에러 발생");
         });
 }
